@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Building+Intelligent+Systems;Passionate+Software+Developer;Always+Learning+New+Technologies" />
 </p>
 
----
+
 
 ##  About Me
 
 I am a passionate developer focused on **Artificial Intelligence, Machine Learning, and Deep Learning**.
 I love building smart solutions, teaching technology, and solving real-world problems using data and code.
 
----
+
 
 ## 🧠 Tech Interests
 
@@ -21,7 +21,7 @@ I love building smart solutions, teaching technology, and solving real-world pro
 * 🌐 Web Development
 * 🔐 Cybersecurity & IoT
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -33,25 +33,6 @@ I love building smart solutions, teaching technology, and solving real-world pro
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fikiribienvenu&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikiribienvenu&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/fikiribienvenu/fikiribienvenu/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ##  Featured Projects
 
@@ -69,13 +50,13 @@ I love building smart solutions, teaching technology, and solving real-world pro
 
 * Practical training systems for students
 
----
+
 
 ## 🌐 Portfolio
 
  https://fikiribienvenuregis.com
 
----
+
 
 ## 📄 Download My CV
 
@@ -85,7 +66,7 @@ I love building smart solutions, teaching technology, and solving real-world pro
   </a>
 </p>
 
----
+
 
 ## 🤝 Let's Collaborate
 
@@ -95,7 +76,6 @@ I’m open to:
 * Open source contributions
 * Innovative tech solutions
 
----
 
 ## 📫 Connect With Me
 
@@ -103,12 +83,12 @@ I’m open to:
 * 🔗 X: https://www.x.com/fikiri_regis/
 * 🔗 Whastapp: ![WhatsApp Image 2026-04-09 at 4 15 00 AM](https://github.com/user-attachments/assets/5e7d1d30-a41e-442c-afcd-4759c15bc0b5)
 
----
+
 
 ## ⚡ Fun Fact
 
 I enjoy turning ideas into intelligent systems and exploring AI innovation.
 
----
+
 
 ⭐ *“Building the future with AI, one model at a time.”*
