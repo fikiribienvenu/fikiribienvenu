@@ -81,7 +81,7 @@ I’m open to:
 
 * 🔗 LinkedIn: https://www.linkedin.com/in/fikiri-bienvenu-regis-046a60188/
 * 🔗 X: https://www.x.com/fikiri_regis/
-* 🔗 Whastapp: ![WhatsApp Image 2026-04-09 at 4 15 00 AM](https://github.com/user-attachments/assets/5e7d1d30-a41e-442c-afcd-4759c15bc0b5)
+* 
 
 
 
